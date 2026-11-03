@@ -1,0 +1,6 @@
+{
+  "name": "Nexus DevHub - Gestão de Parâmetros e Conhecimento",
+  "description": "Sistema responsivo e moderno para cadastro de Parâmetros, Banco de Conhecimento e Catálogo de Tabelas com persistência Neon PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
